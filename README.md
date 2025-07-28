@@ -1,6 +1,6 @@
-# Compulsive-List-Support
-Compulsive List App Support
+# Applications-Support
+App Support
 
 This is repository for iOS application support.
 
-Any questions connected with Compulsive List App direct to fraine21+CL@gmail.com 
+Any questions connected with Apps direct to fraine21@gmail.com.
